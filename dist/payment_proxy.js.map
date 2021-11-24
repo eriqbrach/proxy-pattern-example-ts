@@ -1,0 +1,1 @@
+{"version":3,"file":"payment_proxy.js","sourceRoot":"","sources":["../src/payment_proxy.ts"],"names":[],"mappings":";;;AAIA,MAAa,YAAY;IAGrB,YAAY,aAAuC;QAC/C,IAAI,CAAC,aAAa,GAAG,aAAa,CAAC;IACvC,CAAC;IAEM,GAAG;QACN,OAAO,CAAC,GAAG,CAAC,8BAA8B,CAAC,CAAC;QAC5C,IAAI,CAAC,aAAa,CAAC,GAAG,EAAE,CAAC;QACzB,OAAO,CAAC,GAAG,CAAC,0BAA0B,CAAC,CAAC;IAC5C,CAAC;CACJ;AAZD,oCAYC"}
